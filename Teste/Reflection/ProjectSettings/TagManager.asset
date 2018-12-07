@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Death
+  - DoorPlayer
+  - DoorReflection
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Wall
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 286168541
+    locked: 0
+  - name: Wall
+    uniqueID: 1214335453
+    locked: 0
+  - name: Interact
+    uniqueID: 2709248627
+    locked: 0
+  - name: Death
+    uniqueID: 3536658009
+    locked: 0
+  - name: Player
+    uniqueID: 83242401
+    locked: 0
