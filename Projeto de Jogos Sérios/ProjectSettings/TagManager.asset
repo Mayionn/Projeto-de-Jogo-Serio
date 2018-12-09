@@ -4,7 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Correct
+  - Fish
+  - Cube
+  - Sphere
+  - TextFish
+  - TextCube
+  - TextSphere
   layers:
   - Default
   - TransparentFX
